@@ -18,7 +18,7 @@ SET birthday = '1987-03-11'
 WHERE id = 4
 UPDATE employee
 SET email = 'dot@com'
-WHERE '199-10-26'
+WHERE birthday = '199-10-26'
 UPDATE employee
 SET name = 'Blap'
 WHERE id = 6
